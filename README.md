@@ -360,3 +360,21 @@ latest: digest: sha256:6e49841ad9e720a7baedcd41f9b666fcd7b583151d0763fe78101bb82
 ```
 
 ### You must be feeling like a champ already 
+
+
+
+
+sample-java-app
+│
+├── src
+│   └── main
+│       └── java
+│           └── com/example/demo
+│               └── Application.java
+│
+├── src/main/resources
+│   └── application.properties
+│
+├── pom.xml
+├── Dockerfile
+└── Jenkinsfile
